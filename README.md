@@ -16,6 +16,9 @@ Já está pronto!!! Seu navegador não aceitará mais nenhuma página que tenha 
 
 Para desativar a extensão basta clicar no seu ícone (ao lado direito acima na barra de endereço de URL) com o botão direito do mouse e selecionar: \<<REMOVER DO CHROME\>>.
 
+![Figura 1](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/tutorial_1.jpg?raw=true)
+
+![Figura 2](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/tutorial_2.jpg?raw=true)
 
 
 
