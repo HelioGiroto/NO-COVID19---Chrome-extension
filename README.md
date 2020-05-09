@@ -1,14 +1,15 @@
 # NO-COVID19---Chrome-extension
 Esta extensão para Google Chrome bloqueia toda página web que contenha qualquer informação sobre Coronavirus!!!
-This Google Chrome Extension blocks any web page that contains any information about Coronavirus.
+
+_**This Google Chrome Extension blocks any web page that contains any information about Coronavirus.**_
 
 ## INSTALAÇÃO:
 
 1. Faça download da pasta compactada (\*.ZIP)
 2. Descompacte em alguma pasta do seu computador (em Documentos, por exemplo).
-3. Abra o Google Chrome neste endereço (URL): chrome://extensions/
-4. Certifique-se que o *modo desenvolvedor* está ativado.
-5. Clique no botão <<CARREGAR SEM COMPACTAÇÃO>>
+3. Abra o Google Chrome neste endereço (URL): _[chrome://extensions/](chrome://extensions/)_
+4. Certifique-se que o **modo desenvolvedor** está ativado.
+5. Clique no botão **<<CARREGAR SEM COMPACTAÇÃO>>**
 6. Selecione a pasta descompactada onde você a salvou.
 7. Veja se a extensão está ativada (em azul) - (Figura 2 - nro. 4).
 
