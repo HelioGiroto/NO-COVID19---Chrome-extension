@@ -21,6 +21,9 @@ Para desativar a extensão basta clicar no seu ícone (ao lado direito acima na 
 
 ![Figura 2](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/tutorial_2.jpg?raw=true)
 
+<br><br>
+![STOP COVID!!!](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/enoughCovid.png)
+
 
 
 
