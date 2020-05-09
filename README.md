@@ -12,7 +12,7 @@ This Google Chrome Extension blocks any web page that contains any information a
 6. Selecione a pasta descompactada onde você a salvou.
 7. Veja se a extensão está ativada (em azul) - (Figura 2 - nro. 4).
 
-Já está pronto!!! Seu navegador não aceitará mais nenhuma página que tenha a palavra "coronavírus".
+Já está pronto!!! Seu navegador não aceitará mais nenhuma página que tenha a palavra "coronavírus". Seu navegador está livre de COVID19 até o momento!!!!
 
 Para desativar a extensão basta clicar no seu ícone (ao lado direito acima na barra de endereço de URL) com o botão direito do mouse e selecionar: \<<REMOVER DO CHROME\>>.
 
